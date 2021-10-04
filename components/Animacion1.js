@@ -1,6 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-trailing-spaces */
-/* eslint-disable prettier/prettier */
 import React, {useState, useEffect} from 'react';
 import {StyleSheet, Text, Animated, NativeModules} from 'react-native';
 
